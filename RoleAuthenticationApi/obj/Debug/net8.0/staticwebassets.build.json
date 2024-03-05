@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6kBvXQxq+6wdOofyXISR2jhnZGXrJr82RiWTVmm+ct8=",
+  "Source": "RoleAuthenticationApi",
+  "BasePath": "_content/RoleAuthenticationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
